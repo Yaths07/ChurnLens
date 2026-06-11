@@ -118,3 +118,7 @@ This project is optimized for deployment as a Hugging Face Space. To host your a
 
 ## 📄 License
 Distributed under the MIT License. See the MIT License guidelines for more details.
+
+<img width="800" height="500" alt="contract_churn_rate" src="https://github.com/user-attachments/assets/2a6231c4-b522-4045-8338-5854fa08b2b7" />
+
+<img width="1000" height="600" alt="tenure_histogram" src="https://github.com/user-attachments/assets/a15734db-71d9-42af-a002-a6c40208ce9c" />
